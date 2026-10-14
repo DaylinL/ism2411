@@ -26,10 +26,15 @@ python week07/functions.py
 
 ### 1. Commit History
 
+```text
+507c8ac update reflection with commit history
 ecbb261 add README with module listing and reflection
 b24abbb add module 7 functions
 30b8c0f add .gitignore for Python and OS files
 3459721 Initial commit
+```
+
+If I were hiring someone and saw this commit history, it would show me that they organize their work and save changes in separate steps instead of doing everything at once.
 
 ### 2. Using Git
 
